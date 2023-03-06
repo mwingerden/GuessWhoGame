@@ -5,10 +5,10 @@ public class Repository extends Observable {
     private static Repository instance;
     private String guess;
     private String answer;
-    private ArrayList<String> guesses;
+    private ArrayList<String> characters;
 
     private Repository (){
-        guesses = new ArrayList<>();
+        characters = new ArrayList<>();
     }
 
     public static Repository getInstance(){
@@ -34,12 +34,15 @@ public class Repository extends Observable {
         this.guess = guess;
     }
 
-    public void addGuess(String guess){
-        guesses.add(guess);
+    public void addCharacter(String character){
+        characters.add(character);
+    }
+
+    public void removeGuessed(String character){
+        characters.remove(character);
         setChanged();
         notifyObservers();
     }
-
 
 
 }
