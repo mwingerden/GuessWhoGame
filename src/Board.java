@@ -3,6 +3,10 @@
  * character to the west side of the panel for the player to see which character they have.
  *
  * @author  Matthew Wingerden
+ * @author  Pablo Nguyen
+ * @author  Juan Custodio
+ * @author  Kevin Henderson
+ * @author  Nathon Ho
  */
 
 import javax.swing.*;

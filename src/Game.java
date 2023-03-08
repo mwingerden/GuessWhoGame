@@ -4,6 +4,10 @@
  * correctly. Then the second execution can take any or none argument.
  *
  * @author  Matthew Wingerden
+ * @author  Pablo Nguyen
+ * @author  Juan Custodio
+ * @author  Kevin Henderson
+ * @author  Nathon Ho
  */
 
 import javax.swing.*;

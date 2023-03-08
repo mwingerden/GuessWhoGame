@@ -3,6 +3,10 @@
  * that send the phrase of the player to the other player.
  *
  * @author  Matthew Wingerden
+ * @author  Pablo Nguyen
+ * @author  Juan Custodio
+ * @author  Kevin Henderson
+ * @author  Nathon Ho
  */
 
 import javax.swing.*;

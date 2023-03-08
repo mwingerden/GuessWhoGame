@@ -2,6 +2,10 @@
  * The Writer class sends the response from the player to the server for it to be sent to the other player.
  *
  * @author  Matthew Wingerden
+ * @author  Pablo Nguyen
+ * @author  Juan Custodio
+ * @author  Kevin Henderson
+ * @author  Nathon Ho
  */
 
 import java.io.*;

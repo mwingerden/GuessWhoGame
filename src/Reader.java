@@ -2,6 +2,10 @@
  * The reader class acts like a server receiving the message from the client and echoing it back.
  *
  * @author  Matthew Wingerden
+ * @author  Pablo Nguyen
+ * @author  Juan Custodio
+ * @author  Kevin Henderson
+ * @author  Nathon Ho
  */
 
 import java.io.DataInputStream;

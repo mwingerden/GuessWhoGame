@@ -2,6 +2,10 @@
  * The Repository class takes the response from either player and sends it to the other.
  *
  * @author  Matthew Wingerden
+ * @author  Pablo Nguyen
+ * @author  Juan Custodio
+ * @author  Kevin Henderson
+ * @author  Nathon Ho
  */
 
 import java.io.IOException;
